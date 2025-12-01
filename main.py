@@ -1,6 +1,6 @@
 import random
 
-numero_secreto = random.randint(1,100)
+numero_secreto = random.randint(1,50)
 
 print("--------------------------------------")
 print("-- BEM VINDO AO JOGO DE ADIVINHAÇÃO --")
