@@ -8,9 +8,14 @@ def multiplicacao(a, b):
 def divisao(a, b):
     return a / b
 def pegar_numero():
-    a = int(input("Digite um numero: "))
-    b = int(input("Digite o segumdo numero: "))
-    return a,b
+    while True:
+        try:   
+            a = int(input("Digite um numero: "))
+            b = int(input("Digite o segumdo numero: "))
+            return a,b
+        except ValueError:
+            print("Digite um numero valido")
+        
     
 print("-- Calculadora -- ")
 print("Escolha uma operação")
