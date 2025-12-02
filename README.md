@@ -6,7 +6,6 @@ Repositório para praticar e documentar meu aprendizado em programação.
 
 ### Python
 - [Jogo de Adivinhação](./jogo-de-adivinhacao/) - Jogo onde o usuário tenta adivinhar um número
-
 - [Calculadora](./calculadora/) - Calculadora
 - [Impar e par ](./impar-par/) - Mostar numeros impares  e pares 
 
