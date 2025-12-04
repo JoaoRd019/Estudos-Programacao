@@ -13,12 +13,12 @@ def mensagem(valor_conta, conta):
 
 if opcao == "1":
     conta = valor_conta * 0.1
-    mensagem()
+    mensagem(valor_conta, conta)
 elif opcao == "2":
     conta = valor_conta * 0.15
-    mensagem()
+    mensagem(valor_conta, conta) 
 elif opcao == "3":
     conta = valor_conta * 0.2
-    mensagem()
+    mensagem(valor_conta, conta) 
 else:
     print("Digite uma opção válida")
