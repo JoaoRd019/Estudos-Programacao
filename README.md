@@ -9,6 +9,7 @@ Repositório para praticar e documentar meu aprendizado em programação.
 
 - [Calculadora](./calculadora/) - Calculadora
 - [Impar e par ](./impar-par/) - Mostar numeros impares  e pares 
+- [Conversor dolar real](./conversor-moedas/) - Converter Dolar parar Real e Real para Dolar
 
 ## 🎯 Objetivo
 Fortalecer meu aprendizado através da prática constante e documentação dos projetos.
