@@ -1,11 +1,12 @@
 valor_conta = float(input("Digite o valor da conta para calcular a gorjeta: "))
+
 print("\nEscolha a porcentagem da gorjeta")
 print("1. Gorjeta 10%")
 print("2. Gorjeta 15%")
 print("3. Gorjeta 20%")
 opcao = input("- Digite aqui: ")
 
-def mensagem():
+def mensagem(valor_conta, conta):
     print(f"\nValor da conta: R$ {valor_conta:.2f}")
     print(f"Valor da gorjeta: R$ {conta:.2f}")
     print(f"Total a pagar: R$ {valor_conta + conta:.2f}")
