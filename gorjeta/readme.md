@@ -1,0 +1,1 @@
+Calcula 10% de gorjeta do valor da mesa
