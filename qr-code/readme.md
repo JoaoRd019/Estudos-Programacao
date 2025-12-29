@@ -1,0 +1,1 @@
+Cria um qr code simples altere isso ("https://github.com/JoaoRd019") troque pelo endereço da preferencia 
