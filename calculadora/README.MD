@@ -15,7 +15,7 @@ Este projeto foi desenvolvido para praticar:
 
 ## 🚀 Como Executar
 ```bash
-python [calculadora].py
+python calculadora.py
 ```
 
 ## 💡 Como Funciona
@@ -25,5 +25,3 @@ python [calculadora].py
 3. O programa solicita os dois números
 4. Realiza o cálculo e exibe o resultado
 5. Pergunta se o usuário deseja fazer outra operação
-
-## 📸 Exemplo de Uso
