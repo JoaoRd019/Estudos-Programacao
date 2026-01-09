@@ -13,7 +13,7 @@ Projetos básicos focados em lógica de programação e estruturas fundamentais.
 
 | Projeto | Descrição | Conceitos |
 |---------|-----------|-----------|
-| [Calculadora](./01-fundamentos-python/calculadora) | Operações matemáticas básicas | Funções, operadores |
+| [Calculadora](./calculadora/calculadora.py) | Operações matemáticas básicas | Funções, operadores |1
 | [Par ou Ímpar](./01-fundamentos-python/par-impar) | Identificação de números pares/ímpares | Condicionais, loops |
 | [Conversor de Moedas](./01-fundamentos-python/conversor-moedas) | Conversão Real ↔ Dólar | Variáveis, input/output |
 

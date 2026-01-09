@@ -1,6 +1,6 @@
 import random
 
-lista = [random.randint(1, 100) for i in range(10)]
+lista = [random.randint(1, 100) for i in range(10)]#
 numeros_pares = []
 numeros_impares = []
 

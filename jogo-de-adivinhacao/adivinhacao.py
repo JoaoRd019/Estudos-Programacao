@@ -1,5 +1,6 @@
 import random
 
+# numero aleatorio entre 1 e 50
 numero_secreto = random.randint(1,50)
 
 print("--------------------------------------")
@@ -8,6 +9,7 @@ print("--------------------------------------\n")
 
 tentativa = 1
 
+# loop para o jogo de adivinhaçao
 while(True):
     
     print("\nTente acertar o o numero secreto!")
