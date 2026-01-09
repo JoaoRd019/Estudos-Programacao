@@ -11,19 +11,22 @@ def dolar_para_real():
     return dolar * taxa
 
 # menu de exibiçao
-print("-- Conversor de moedas --")
+print("-- Conversor de moedas --\n")
 print("Escolha uma opção")
 print("1. dolar para Real")
 print("2. Real para Dolar")
 opcao = int(input("Digite aqui (1 ou 2): "))
 
+# funçao para exibir o resultado e evitar repetiçao de codigo
+def exibir_resultado(moeda, valor):
+    print(f"O valor convertido é: {moeda} {valor:.2f} \n")
+
 if opcao == 1:
     resultado = dolar_para_real()
-    print(f"R$ {resultado:.2f}")
+    exibir_resultado("R$", resultado)
 
 elif opcao == 2:
     resultado = real_para_dolar()
-    print(f"$ {resultado:.2f}")
-
+    exibir_resultado("$$", resultado)
 else:
     print(f"Opção inválida! Digite 1 ou 2.")

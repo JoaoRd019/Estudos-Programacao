@@ -3,15 +3,18 @@
 # funçoes que retorna o operador utilizado 
 def adicao(a, b):
     return a + b
+
 def subtracao(a, b):
     return a - b
+
 def multiplicacao(a, b):
     return a * b 
+
 def divisao(a, b):
     return a / b
 
 # funçao para receber numeros para ser feito a operaçao utiliza o loop while caso o usurio digitar algo inesperado e nao encerrar o programa
-def pegar_numero(a, b):
+def pegar_numero():
     while True:
         try:   
             a = int(input("Digite um numero: "))
@@ -20,8 +23,11 @@ def pegar_numero(a, b):
         except ValueError:
             print("Digite um numero valido")
 
-def variaveis(a, b ):
-    return a ,b
+
+# funçao para exibir o resultado da operaçao
+def exibir_resultado(a, operador, b, resultado):
+    print(f"\nO resultado de {a} {operador} {b} é: {resultado}")
+
         
 # menu de exibiçao 
 print("-- Calculadora -- ")
@@ -34,21 +40,21 @@ opcao = int(input("Digite aqui: "))
 
 # estruturas de condiçao
 if opcao == 1:
-    n1, n2 =  pegar_numero(...)
+    n1, n2 =  pegar_numero()
     soma = adicao(n1, n2)
-    print(f"{n1} + {n2} =", soma)
+    exibir_resultado(n1, "+", n2, soma)
 
 elif opcao == 2:
     n1, n2 =  pegar_numero()
     menos = subtracao(n1, n2)
-    print(f"{n1} - {n2} =", menos)
+    exibir_resultado(n1, "-", n2, menos)
 
 elif opcao == 3:
     n1, n2 =  pegar_numero()
     mult = multiplicacao(n1, n2)
-    print(f"{n1} * {n2} =", mult)
+    exibir_resultado(n1, "*", n2, mult)
 
 elif opcao == 4:
     n1, n2 =  pegar_numero()
     div = divisao(n1, n2)
-    print(f"{n1} / {n2} =", div)
+    exibir_resultado(n1, "/", n2, div)

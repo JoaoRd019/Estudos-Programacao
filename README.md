@@ -14,24 +14,24 @@ Projetos básicos focados em lógica de programação e estruturas fundamentais.
 | Projeto | Descrição | Conceitos |
 |---------|-----------|-----------|
 | [Calculadora](./calculadora/calculadora.py) | Operações matemáticas básicas | Funções, operadores |1
-| [Par ou Ímpar](./01-fundamentos-python/par-impar) | Identificação de números pares/ímpares | Condicionais, loops |
-| [Conversor de Moedas](./01-fundamentos-python/conversor-moedas) | Conversão Real ↔ Dólar | Variáveis, input/output |
+| [Par ou Ímpar](./impar-par/impar_par.py) | Identificação de números pares/ímpares | Condicionais, loops |
+| [Conversor de Moedas](./conversor-moedas/conversor.py) | Conversão Real ↔ Dólar | Variáveis, input/output |
 
 ### 02 - Projetos Intermediários
 Projetos que combinam múltiplos conceitos e lógica mais complexa.
 
 | Projeto | Descrição | Conceitos |
 |---------|-----------|-----------|
-| [Jogo de Adivinhação](./02-projetos-intermediarios/jogo-adivinhacao) | Adivinhe o número secreto | Random, loops, condicionais |
-| [Calculadora de Gorjeta](./02-projetos-intermediarios/calculadora-gorjeta) | Calcula porcentagem de gorjeta | Matemática, formatação |
-| [Gerador de Senha](./02-projetos-intermediarios/gerador-senha) | Cria senhas aleatórias | String manipulation, random |
+| [Jogo de Adivinhação](./jogo-de-adivinhacao/adivinhacao.py) | Adivinhe o número secreto | Random, loops, condicionais |
+| [Calculadora de Gorjeta](./gorjeta/gorjeta.py) | Calcula porcentagem de gorjeta | Matemática, formatação |
+| [Gerador de Senha](./senha/senha.py) | Cria senhas aleatórias | String manipulation, random |
 
 ### 03 - Trabalhando com Bibliotecas
 Projetos que utilizam bibliotecas externas do Python.
 
 | Projeto | Descrição | Bibliotecas |
 |---------|-----------|-------------|
-| [Gerador de QR Code](./03-trabalhando-com-bibliotecas/gerador-qrcode) | Cria QR codes personalizados | qrcode, PIL |
+| [Gerador de QR Code](./qr-code/code.py) | Cria QR codes personalizados | qrcode, PIL |
 | [Cadastro de Restaurante](./03-trabalhando-com-bibliotecas/cadastro-restaurante) | Sistema de cadastro | Módulos personalizados |
 
 ## 🚀 Tecnologias
