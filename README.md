@@ -75,12 +75,6 @@ python calculadora.py
 - [Documentação Oficial Python](https://docs.python.org/pt-br/3/)
 - Outros recursos serão adicionados conforme avanço nos estudos
 
-## 💡 Próximos Passos
-
-- Implementar POO nos projetos existentes
-- Criar projetos com interface gráfica (Tkinter)
-- Desenvolver uma API simples com Flask
-- Trabalhar com banco de dados (SQLite)
 
 ## 📄 Licença
 
