@@ -12,6 +12,9 @@ Repositório para praticar e documentar meu aprendizado em programação.
 - [Gorjeta](./gorjeta/) - Calcula porcentagem do valor da mesa 
 - [Qr code](./qr-code/) - Cria um Qr code
 - [Senha aleatoria](./senha/) - Cria uma senha aleatoria de (6, 7 ou 8 digitos)
+
+### Java
+
 ## 🎯 Objetivo
 Fortalecer meu aprendizado através da prática constante e documentação dos projetos.
 
