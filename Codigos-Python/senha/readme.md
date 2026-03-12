@@ -1,19 +1,42 @@
-GERADOR DE SENHAS ALEATORIAS 
+# Gerador de Senhas
 
-Um script simples em Python para gerar senhas aleatórias de 6, 7 ou 8 dígitos, combinando letras, números e caracteres especiais.
+Programa Python para gerar senhas aleatórias e seguras.
 
-Menu simples para escolha do tamanho da senha
+## Como Usar
 
-Geração automática com caracteres aleatórios
+1. Execute o programa:
+```bash
+python senha.py
+```
 
-Usa letras maiúsculas, minúsculas, números e símbolos
+2. Escolha o tamanho da senha:
+   - Digite `1` para 6 dígitos
+   - Digite `2` para 7 dígitos
+   - Digite `3` para 8 dígitos
 
-Como funciona
+3. A senha será gerada e exibida na tela
 
-O programa:
+## Exemplo
 
-Pergunta ao usuário o tamanho da senha (6, 7 ou 8 dígitos)
+```
+Escolha o tamanho da senha:
+1. 6 dígitos
+2. 7 dígitos
+3. 8 dígitos
+:2
 
-Gera uma senha aleatória usando a biblioteca random
+Sua senha gerada é: aB3#xT9
+```
 
-Mostra a senha pronta na tela
+## Caracteres Utilizados
+
+A senha pode conter:
+- Letras maiúsculas (A-Z)
+- Letras minúsculas (a-z)
+- Números (0-9)
+- Símbolos especiais (!@#$%&*?)
+
+## Requisitos
+
+- Python 3.x
+- Bibliotecas `random` e `string` (incluídas no Python)
