@@ -15,6 +15,18 @@
 
 ### Java
 
+- [Olá mundo](./Codigos-Java/Exercicio_java/src/nivel1/Exercicio01OlaMundo.java)
+- [Soma de dois numeros](./Codigos-Java/Exercicio_java/src/nivel1/Exercicio02SomaDeDoisNumeros.java)
+- [Media de tres notas](/Codigos-Java/Exercicio_java/src/nivel1/Exercicio03MediaDeTresNotas.java)
+- [Aprovado ou reprovado](/Codigos-Java/Exercicio_java/src/nivel2/Exercicio01AprovadoOuReprovado.java)
+- [Verificar numero maior](/Codigos-Java/Exercicio_java/src/nivel2/Exercicio03VerificarNumeroMaior.java)
+- [Classificação de IMC](./Codigos-Java/Exercicio_java/src/nivel2/Exercicio04ClassificarImc.java)
+- [Calculadora simples](./Codigos-Java/Exercicio_java/src/nivel2/Exercicio05CalculadoraSimples.java)
+- [Par ou impar](./Codigos-Java/Exercicio_java/src/nivel2/Exercicios02ParOuImpar.java)
+- [Tabuada](./Codigos-Java/Exercicio_java/src/nivel3/Exercicio01Tabuada.java)
+- [Contagem regressiva](./Codigos-Java/Exercicio_java/src/nivel3/Exercicio02ContagemRegressiva.java)
+- [Soma de N numeros](./Codigos-Java/Exercicio_java/src/nivel3/Exercicio03SomaDeNNumeros.java)
+
 ## 🎯 Objetivo
 
 Este repositório documenta minha jornada de aprendizado em programação, organizando projetos por nível de complexidade e conceitos aplicados.
@@ -50,7 +62,9 @@ Projetos que utilizam bibliotecas externas do Python.
 ## 🚀 Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+![Java](https://img.shields.io/badge/any_text-you_like-blue?logo=openjdk&logoColor=lightgreen)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 **Versão do Python:** 3.x
 
 ## 📖 Como Usar
