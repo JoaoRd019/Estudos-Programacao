@@ -61,10 +61,9 @@ Projetos que utilizam bibliotecas externas do Python.
 
 ## 🚀 Tecnologias
 
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-![VS Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg)
-![IntelliJ](https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg)
+### 🚀 Tecnologias
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25" /> **Java** &nbsp; | &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" /> **Python** &nbsp; | &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="25" /> **VS Code** &nbsp; | &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="25" /> **IntelliJ**
 
 
 ## 📖 Como Usar
