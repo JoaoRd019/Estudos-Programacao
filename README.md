@@ -1,6 +1,6 @@
 # 📚 Estudos de Programação
 
-> Repositório dedicado ao meu aprendizado e prática em programação, com foco em Python e desenvolvimento de projetos práticos.
+> Repositório dedicado ao meu aprendizado e prática em programação e desenvolvimento de projetos práticos.
 
 ## 🗂️ Projetos
 
