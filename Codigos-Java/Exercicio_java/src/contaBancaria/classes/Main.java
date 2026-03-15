@@ -1,4 +1,4 @@
-package contaBancaria;
+package contaBancaria.classes;
 
 public class Main {
     static void main() {
@@ -11,6 +11,10 @@ public class Main {
         System.out.println(c1);
 
         ContaPoupanca poupanca1 = new ContaPoupanca("Joao Pedro", "0000000000000", 0, 0.5);
+        ContaCorrente corrente1 = new ContaCorrente("Joao Pedro", "0000000000000", 0, 100.00);
+
+        corrente1.sacar(6.00);
+        System.out.println(corrente1);
 
     }
 }

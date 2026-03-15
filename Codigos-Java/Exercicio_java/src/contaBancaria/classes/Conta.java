@@ -1,4 +1,4 @@
-package contaBancaria;
+package contaBancaria.classes;
 
 public class Conta {
     private String nome;
@@ -10,6 +10,18 @@ public class Conta {
         this.nome = nome;
         this.cpf = cpf;
         this.saldo = saldo;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public void setSaldo(double saldo) {
+        this.saldo = saldo;
+    }
+
+    public void setCpf(String cpf) {
+        this.cpf = cpf;
     }
 
     public String getNome() {
