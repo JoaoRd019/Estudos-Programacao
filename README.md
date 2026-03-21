@@ -4,100 +4,35 @@
 
 ## 🗂️ Projetos
 
-### Python
-- [Jogo de Adivinhação](./jogo-de-adivinhacao/) - Jogo onde o usuário tenta adivinhar um número
-- [Calculadora](./calculadora/) - Calculadora
-- [Impar e par ](./impar-par/) - Mostar numeros impares  e pares 
-- [Conversor dolar real](./conversor-moedas/) - Converter Dolar parar Real e Real para Dolar
-- [Gorjeta](./gorjeta/) - Calcula porcentagem do valor da mesa 
-- [Qr code](./qr-code/) - Cria um Qr code
-- [Senha aleatoria](./senha/) - Cria uma senha aleatoria de (6, 7 ou 8 digitos)
+### 🐍 [Python](./01-Codigos-Python/)
+* **Jogo de Adivinhação** - O usuário tenta adivinhar um número secreto.
+* **Calculadora** - Operações matemáticas básicas.
+* **Impar e par** - Identificação de números ímpares e pares.
+* **Conversor Dólar/Real** - Conversão de moedas com entrada do usuário.
+* **Cálculo de Gorjeta** - Calcula a porcentagem do valor da mesa.
+* **Gerador de QR Code** - Criação de códigos QR personalizados.
+* **Senha Aleatória** - Gera senhas seguras de 6, 7 ou 8 dígitos.
 
-### Java
+### ☕ [Java](./02-Codigos-Java/)
+* **Fundamentos:** Olá Mundo, Soma, Média de Notas, Par ou Ímpar, Tabuada, Contagem Regressiva e Soma de N números.
+* **Lógica Aplicada:** Verificação de número maior e Classificação de IMC.
+* **Orientação a Objetos (POO):**
+    * **Sistema Bancário** - Prática de herança e encapsulamento.
+    * **Gerenciamento de Livros** - Controle de acervo e biblioteca.
+    * **Cadastro de Pessoas** - Sistema para alunos, professores e pessoas.
 
-- [Olá mundo](./Codigos-Java/Exercicio_java/src/nivel1/Exercicio01OlaMundo.java)
-- [Soma de dois numeros](./Codigos-Java/Exercicio_java/src/nivel1/Exercicio02SomaDeDoisNumeros.java)
-- [Media de tres notas](/Codigos-Java/Exercicio_java/src/nivel1/Exercicio03MediaDeTresNotas.java)
-- [Aprovado ou reprovado](/Codigos-Java/Exercicio_java/src/nivel2/Exercicio01AprovadoOuReprovado.java)
-- [Verificar numero maior](/Codigos-Java/Exercicio_java/src/nivel2/Exercicio03VerificarNumeroMaior.java)
-- [Classificação de IMC](./Codigos-Java/Exercicio_java/src/nivel2/Exercicio04ClassificarImc.java)
-- [Calculadora simples](./Codigos-Java/Exercicio_java/src/nivel2/Exercicio05CalculadoraSimples.java)
-- [Par ou impar](./Codigos-Java/Exercicio_java/src/nivel2/Exercicios02ParOuImpar.java)
-- [Tabuada](./Codigos-Java/Exercicio_java/src/nivel3/Exercicio01Tabuada.java)
-- [Contagem regressiva](./Codigos-Java/Exercicio_java/src/nivel3/Exercicio02ContagemRegressiva.java)
-- [Soma de N numeros](./Codigos-Java/Exercicio_java/src/nivel3/Exercicio03SomaDeNNumeros.java)
-- [Cadastro pessoas, profesores e alunos](./Codigos-Java/Exercicio_java/src/sistemaCadstroPessoas/)
-- [Sistema bancario](./Codigos-Java/Exercicio_java/src/contaBancaria/)
-- [Gerenciamento de livros](./Codigos-Java/Exercicio_java/src/SistemaBibliotecaLivro/)
 
 ## 🎯 Objetivo
 
 Este repositório documenta minha jornada de aprendizado em programação, organizando projetos por nível de complexidade e conceitos aplicados.
 
-## 🗂️ Organização do Repositório
-
-### 01 - Fundamentos Python
-Projetos básicos focados em lógica de programação e estruturas fundamentais.
-
-| Projeto | Descrição | Conceitos |
-|---------|-----------|-----------|
-| [Calculadora](./calculadora/calculadora.py) | Operações matemáticas básicas | Funções, operadores |1
-| [Par ou Ímpar](./impar-par/impar_par.py) | Identificação de números pares/ímpares | Condicionais, loops |
-| [Conversor de Moedas](./conversor-moedas/conversor.py) | Conversão Real ↔ Dólar | Variáveis, input/output |
-
-### 02 - Projetos Intermediários
-Projetos que combinam múltiplos conceitos e lógica mais complexa.
-
-| Projeto | Descrição | Conceitos |
-|---------|-----------|-----------|
-| [Jogo de Adivinhação](./jogo-de-adivinhacao/adivinhacao.py) | Adivinhe o número secreto | Random, loops, condicionais |
-| [Calculadora de Gorjeta](./gorjeta/gorjeta.py) | Calcula porcentagem de gorjeta | Matemática, formatação |
-| [Gerador de Senha](./senha/senha.py) | Cria senhas aleatórias | String manipulation, random |
-
-### 03 - Trabalhando com Bibliotecas
-Projetos que utilizam bibliotecas externas do Python.
-
-| Projeto | Descrição | Bibliotecas |
-|---------|-----------|-------------|
-| [Gerador de QR Code](./qr-code/code.py) | Cria QR codes personalizados | qrcode, PIL |
-| [Cadastro de Restaurante](./03-trabalhando-com-bibliotecas/cadastro-restaurante) | Sistema de cadastro | Módulos personalizados |
-
-## 🚀 Tecnologias
 
 ### 🚀 Tecnologias
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25" /> **Java** &nbsp; | &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" /> **Python** &nbsp; | &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="25" /> **VS Code** &nbsp; | &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="25" /> **IntelliJ**
 
 
-## 📖 Como Usar
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/JoaoRd019/Estudos-Programacao.git
-```
-
-2. Navegue até o projeto desejado:
-```bash
-cd Estudos-Programacao/01-fundamentos-python/calculadora
-```
-
-3. Execute o arquivo Python:
-```bash
-python calculadora.py
-```
-
-## 📈 Progresso de Aprendizado
-
-- [x] Sintaxe básica Python
-- [x] Estruturas condicionais (if/else)
-- [x] Loops (for/while)
-- [x] Funções
-- [x] Biblioteca random
-- [x] Manipulação de strings
-- [ ] Programação orientada a objetos
-- [ ] Tratamento de exceções
-- [ ] Trabalho com arquivos
-- [ ] APIs e requisições HTTP
 
 ## 🎓 Recursos de Estudo
 
@@ -112,3 +47,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 
 ⭐ Se este repositório te ajudou de alguma forma, considere dar uma estrela!
+---
+
+
+---
