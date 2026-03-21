@@ -5,21 +5,29 @@
 ## 🗂️ Projetos
 
 ### 🐍 [Python](./01-Codigos-Python/)
-* **Jogo de Adivinhação** - O usuário tenta adivinhar um número secreto.
-* **Calculadora** - Operações matemáticas básicas.
-* **Impar e par** - Identificação de números ímpares e pares.
-* **Conversor Dólar/Real** - Conversão de moedas com entrada do usuário.
-* **Cálculo de Gorjeta** - Calcula a porcentagem do valor da mesa.
-* **Gerador de QR Code** - Criação de códigos QR personalizados.
-* **Senha Aleatória** - Gera senhas seguras de 6, 7 ou 8 dígitos.
+- [Jogo de Adivinhação](./01-Codigos-Python/jogo-de-adivinhacao/) - O usuário tenta adivinhar um número secreto.
+- [Calculadora](./01-Codigos-Python/calculadora/) - Operações matemáticas básicas.
+- [Ímpar e Par](./01-Codigos-Python/impar-par/) - Identificação de números ímpares e pares.
+- [Conversor Dólar/Real](./01-Codigos-Python/conversor-moedas/) - Conversão de moedas com entrada do usuário.
+- [Cálculo de Gorjeta](./01-Codigos-Python/gorjeta/) - Calcula porcentagem do valor da mesa.
+- [QR Code](./01-Codigos-Python/qr-code/) - Criação de códigos QR personalizados.
+- [Senha Aleatória](./01-Codigos-Python/senha/) - Gera senhas seguras de 6, 7 ou 8 dígitos.
 
 ### ☕ [Java](./02-Codigos-Java/)
-* **Fundamentos:** Olá Mundo, Soma, Média de Notas, Par ou Ímpar, Tabuada, Contagem Regressiva e Soma de N números.
-* **Lógica Aplicada:** Verificação de número maior e Classificação de IMC.
-* **Orientação a Objetos (POO):**
-    * **Sistema Bancário** - Prática de herança e encapsulamento.
-    * **Gerenciamento de Livros** - Controle de acervo e biblioteca.
-    * **Cadastro de Pessoas** - Sistema para alunos, professores e pessoas.
+- [Olá Mundo](./02-Codigos-Java/Exercicio_java/src/nivel1/Exercicio01OlaMundo.java)
+- [Soma de Dois Números](./02-Codigos-Java/Exercicio_java/src/nivel1/Exercicio02SomaDeDoisNumeros.java)
+- [Média de Três Notas](./02-Codigos-Java/Exercicio_java/src/nivel1/Exercicio03MediaDeTresNotas.java)
+- [Aprovado ou Reprovado](./02-Codigos-Java/Exercicio_java/src/nivel2/Exercicio01AprovadoOuReprovado.java)
+- [Verificar Número Maior](./02-Codigos-Java/Exercicio_java/src/nivel2/Exercicio03VerificarNumeroMaior.java)
+- [Classificação de IMC](./02-Codigos-Java/Exercicio_java/src/nivel2/Exercicio04ClassificarImc.java)
+- [Calculadora Simples](./02-Codigos-Java/Exercicio_java/src/nivel2/Exercicio05CalculadoraSimples.java)
+- [Par ou Ímpar](./02-Codigos-Java/Exercicio_java/src/nivel2/Exercicios02ParOuImpar.java)
+- [Tabuada](./02-Codigos-Java/Exercicio_java/src/nivel3/Exercicio01Tabuada.java)
+- [Contagem Regressiva](./02-Codigos-Java/Exercicio_java/src/nivel3/Exercicio02ContagemRegressiva.java)
+- [Soma de N Números](./02-Codigos-Java/Exercicio_java/src/nivel3/Exercicio03SomaDeNNumeros.java)
+- [Cadastro Pessoas, Professores e Alunos](./02-Codigos-Java/Exercicio_java/src/sistemaCadstroPessoas/)
+- [Sistema Bancário](./02-Codigos-Java/Exercicio_java/src/contaBancaria/classes/)
+- [Gerenciamento de Livros](./02-Codigos-Java/Exercicio_java/src/SistemaBibliotecaLivro/)
 
 
 ## 🎯 Objetivo
@@ -47,6 +55,12 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 
 ⭐ Se este repositório te ajudou de alguma forma, considere dar uma estrela!
+
+
+# 📚 Estudos de Programação
+
+Repositório dedicado ao meu aprendizado e prática em programação, documentando o desenvolvimento de projetos práticos e exercícios de lógica.
+
 ---
 
 
