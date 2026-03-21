@@ -56,11 +56,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ⭐ Se este repositório te ajudou de alguma forma, considere dar uma estrela!
 
-
-# 📚 Estudos de Programação
-
-Repositório dedicado ao meu aprendizado e prática em programação, documentando o desenvolvimento de projetos práticos e exercícios de lógica.
-
 ---
 
 
