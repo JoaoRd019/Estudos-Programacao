@@ -32,7 +32,7 @@
 
 ## 🎯 Objetivo
 
-Este repositório documenta minha jornada de aprendizado em programação, organizando projetos por nível de complexidade e conceitos aplicados.
+Documentar minha evolução técnica em **Análise e Desenvolvimento de Sistemas**
 
 
 ### 🚀 Tecnologias
