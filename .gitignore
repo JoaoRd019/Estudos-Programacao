@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- Regras para Java e IDEs (Adicione isso) ---
+.idea/
+.vscode/
+out/
+bin/
+*.class
+*.iml
