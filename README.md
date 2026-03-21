@@ -1,4 +1,5 @@
 # 📚 Estudos de Programação
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)
 
 > Repositório dedicado ao meu aprendizado e prática em programação e desenvolvimento de projetos práticos.
 
